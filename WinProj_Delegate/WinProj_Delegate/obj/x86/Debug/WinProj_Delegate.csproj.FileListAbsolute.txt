@@ -1,0 +1,7 @@
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\bin\Debug\WinProj_Delegate.exe
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\bin\Debug\WinProj_Delegate.pdb
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\obj\x86\Debug\WinProj_Delegate.Form1.resources
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\obj\x86\Debug\WinProj_Delegate.Properties.Resources.resources
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\obj\x86\Debug\WinProj_Delegate.csproj.GenerateResource.Cache
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\obj\x86\Debug\WinProj_Delegate.exe
+C:\vs2010\WinProj_Delegate\WinProj_Delegate\obj\x86\Debug\WinProj_Delegate.pdb
